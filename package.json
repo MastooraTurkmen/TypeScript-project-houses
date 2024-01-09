@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^2.0",
+    "ts-loader": "*",
+    "typescript": "*"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  }
+}
